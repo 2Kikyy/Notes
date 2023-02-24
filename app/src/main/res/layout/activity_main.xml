@@ -37,14 +37,12 @@
                 android:layout_width="38dp"
                 android:layout_height="38dp"
                 android:background="@drawable/search"
-                android:padding="20dp"
-                app:srcCompat="@drawable/rounded_shape" />
+                android:padding="20dp"/>
 
             <ImageButton
                 android:id="@+id/info"
                 android:layout_width="38dp"
                 android:layout_height="38dp"
-                android:background="@drawable/rounded_shape"
                 app:srcCompat="@drawable/info_outline1" />
         </LinearLayout>
     </LinearLayout>
